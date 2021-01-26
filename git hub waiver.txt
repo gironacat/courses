@@ -1,0 +1,14 @@
+ I, Robin Mitchell, hereby waive all copyright and related or neighboring rights together with all associated claims and causes of action with respect to this work to the extent possible under the law.
+
+
+Course Name :Franklin's Radio Tower Kom
+Distance :22.8 km
+Elevation gain:387 m
+Max elevation :180m
+Author: Robin Mitchell
+Catagory :road
+Description : Zig Zag up to the radio tower from Franklin's house,very steep at the top.
+Notes:At the 6km mark the gps is off by 1 block but it corrects itself,can be heavy traffic so watch out!
+
+Tested on a elite suito with the latest mod
+No issues to report
